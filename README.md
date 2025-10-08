@@ -49,8 +49,8 @@ else
 out<= out+1;
 end  endmodule
 ```
-Developed by:Ragasudha R
-RegisterNumber:24900684
+Developed by:SAIGOKUL.K
+RegisterNumber:25004959
 */
 
 **RTL LOGIC UP COUNTER**
